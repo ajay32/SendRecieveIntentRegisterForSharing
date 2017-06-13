@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecieveIntent/RecieveIntent.iml" filepath="$PROJECT_DIR$/RecieveIntent/RecieveIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendIntent/sendintent.iml" filepath="$PROJECT_DIR$/SendIntent/sendintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendRecieveIntentRegisterForSharing.iml" filepath="$PROJECT_DIR$/SendRecieveIntentRegisterForSharing.iml" />
+    </modules>
+  </component>
+</project>
